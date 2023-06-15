@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshipping_hazmat"]=self["webpackChunkshipping_hazmat"]||[]).push([[443],{833:function(n,a,t){t.r(a),t.d(a,{default:function(){return o}});var s=t(252);const u={class:"about"},i=(0,s._)("h1",null,"This is an about page",-1),e=[i];function r(n,a){return(0,s.wg)(),(0,s.iD)("div",u,e)}var c=t(744);const h={},p=(0,c.Z)(h,[["render",r]]);var o=p}}]);
+//# sourceMappingURL=about.f8e3391e.js.map
